@@ -1,0 +1,124 @@
+30;Noi em quay ve co toi dung doi;Ichikawa Takuji ;Van hoc ;2011
+27;Em se den cung con mua ;Ichikawa Takuji ;Van hoc;2002
+31;Neu gap nguoi ay cho toi gui loi chao;Ichikawa Takuji ;Van hoc;2008
+26;Ruot oi la ruot ;Giulia Enders;Khoa hoc - sinh hoc;2017
+24;Bong ma danh vong ;Harry Reichenbach,  David Freedman;Kinh doanh;2017
+22;Buoc cham lai giua the gian voi va;Hae Min;Van hoc - tan van;2016
+23;Yeu nhung dieu khong hoan hao;Hae Min;Van hoc - tan van;2017
+20;Tuoi tre dang gia bao nhieu;Rosie Nguyen;Tan van;2016
+21;Dam hanh phuc;Kishimi Ichiro , Koga Fumitake;Tan van;2019
+28;Gia o dau do co nguoi doi toi ;Anna Gavalda;Tan van;2016
+29;O dau do co dien thoai goi toi ;Shin Kyung Sook ;Tan van;2010
+11;Tieng Anh giao tiep 1;Nhieu tac gia ;Sach tham khao;2016
+7;Luoc su thoi gian;Stephen Hawking;Khoa hoc - Khoa hoc tu nhien;1995
+8;Vu tru trong mot vo hat ;Stephen Hawking;Khoa hoc - Khoa hoc tu nhien;2005
+9;Ban thiet ke vi dai;Stephen Hawking;Khoa hoc - Khoa hoc tu nhien;2013
+6;Phi ly mot cach hop ly;Dan Ariely;Kinh te - Kinh doanh;2015
+4;Ngo Vang ;Quang Thieu;Van hoc - tieu thuyet;1992
+5;Em lam on im di duoc khong;Raymond Carver ;Van hoc - tieu thuyet;2010
+10;Kapka ben bo bien ;Murakami Haruki;Van hoc - tieu thuyet;2002
+12;Phia nam bien gioi phia tay mat troi;Murakami Haruki;Van hoc - tieu thuyet;1992
+13;Co gai cuoi cung cua dong ho Standfeild;Marc Levi ;Van hoc - tieu thuyet;2013
+14;Tram nam co don;Gabriel Garcia Marquez;Van hoc - tieu thuyet;1967
+15;Nhung nguoi khon kho;Victor Hugo;Van hoc - tieu thuyet;1862
+16;Papillon nguoi tu kho sai;Henri Charriere;Van hoc - tieu thuyet;1969
+17;Thep da toi the day;Nikolai Alekseyevich Ostrovsky;Van hoc - tieu thuyet;1942
+18;Chien tranh va hoa binh;Lev Nikolayevich Tolstoy;Van hoc - tieu thuyet;1965
+19;Nhung bong hoa tren tang ap mai;V. C. Andrews;Van hoc - tieu thuyet;1979
+25;Bong hinh cua gio;Carlos Ruiz Zafon;Van hoc - tieu thuyet;2014
+3;Su mang cua con nguoi trong the ky 21;John Kaveal ;Lich su - Khoa hoc xa hoi;2015
+1;Co dien tu ung dung;Thanh Dat;Khoa hoc - ky thuat;2013
+2;Cong nghe gen di truyen;Thanh Dat;Khoa hoc - ky thuat;2014
+44;Hai van dam duoi day bien;Jules Verne;Van hoc - tieu thuyet;1870
+42;Sapiens: Luoc Su Loai Nguoi;Yuval Noah Harari;Lich su - Khoa hoc xa hoi;2011
+43;Columbus: Bon Chuyen Hai Hanh (1492-1504);Laurence Bergreen;Lich su - Khoa hoc xa hoi;2016
+45;Thanh Cat Tu Han Va Su Hinh Thanh The Gioi Hien Dai;Jack Weatherford;Lich su - Khoa hoc xa hoi;2010
+46;Sung, Vi Trung Va Thep (Tai Ban 2018);Jared Diamond;Lich su - Khoa hoc xa hoi;2012
+47;Leonardo Da Vinci;Walter Isaacson;Lich su - Khoa hoc xa hoi;2010
+48;12 Hoang De La Ma;Tranquillus,  Caius Suetonius;Lich su - Khoa hoc xa hoi;2017
+49;Lich Su Thuong De;Karen Armstrong;Lich su - Khoa hoc xa hoi;2011
+51;Bai Hoc Israel - Cuoc Hoi Sinh Vi Dai Cua Dan Toc Thong Minh Nhat The Gioi;Nguyen Hien Le;Lich su - Khoa hoc xa hoi;2016
+52;Stalingrad – Tran Chien Dinh Menh;Antony Beevor;Lich su - Khoa hoc xa hoi;2012
+53;NAPOLEON Dai De;Andrew Roberts;Lich su - Khoa hoc xa hoi;2014
+54;Dot Tuyet Chung Thu 6;Elizabeth Kolbert;Lich su - Khoa hoc xa hoi;2018
+55;Lich Su Chien Tranh;John Keegan;Lich su - Khoa hoc xa hoi;2019
+56;Lich Su The Gioi Theo Dong Su Kien - Tu Thoi Do Da Toi Thoi Hien Dai;Jane Chisholm;Lich su - Khoa hoc xa hoi;2009
+57;Su Minh Dinh Cua Dia Ly;Robert Kaplan;Lich su - Khoa hoc xa hoi;2019
+58;Rang Su Tu;Yen Ba;Lich su - Khoa hoc xa hoi;2010
+59;Han Phi Tu;Han Phi;Lich su - Khoa hoc xa hoi;2018
+61;Lich Su Chien Tranh Peloponnese;Thucydides;Lich su - Khoa hoc xa hoi;2012
+62;Chien Quoc Sach;Nguyen Hien Le;Lich su - Khoa hoc xa hoi;2016
+63;Chan Hung Nhat Ban;Clyde Prestowitz;Lich su - Khoa hoc xa hoi;2009
+64;Doc Hanh (Tai Ban 2018);Nguyen Hoang Bao;Lich su - Khoa hoc xa hoi;2017
+36;Thang Nam Sen No;Co Nguyet Quang;Van hoc - truyen ngan;2009
+37;Con Co Em Roi Day ;Ho Nhat Tat;Van hoc - truyen ngan;2010
+38;Co Gai Tren Tau;Paula Hawkins;Van hoc - truyen ngan;2009
+39;Cho Trang;Romain Gary;Van hoc - truyen ngan;2009
+40;Gene Atlantis;A.G. Riddle;Van hoc - truyen ngan;2013
+41;Muoi Ba Ly Do;Jay Asher;Van hoc - truyen ngan;2010
+34;Homo deus - Luoc su tuong lai;Yuval Noah Harari;Lich su - Khoa hoc xa hoi;2015
+32;Rung Na uy;Murakami Haruki;Van Hoc;1987
+33;Nguoi tinh Sputnick;Murakami Haruki;Van Hoc;1999
+35;Thuong Nho Nguoi Dung;Duong Thuy;Van Hoc;2010
+93;My Thuat Ve Ky Hoa;Gia Bao;Hoi hoa - My thuat ;2010
+92;Cuoc Chien Lo Den (Tai Ban);Leonard Susskind;Khoa hoc - khoa hoc vu tru;2009
+84;Ky Thuat Cat May Co Ban (Tap 2);Ngoc Ha;Khoa hoc thuong thuc - gia dinh;2012
+85;Cot Tuy Thuc Duong (Tai Ban);Tran Ngoc Tai - Thuong Hue Nguyen;Khoa hoc thuong thuc - gia dinh;2015
+87;Bi An Cua Cai Chao - Am Thuc Phan Tu;Herve This;Khoa hoc thuong thuc - gia dinh;2013
+88;6 Phat Minh Lam Nen Thoi Dai;Steven Johnson;Khoa hoc thuong thuc - gia dinh;2018
+80;Sinh Hoc Phan Tu Cua Te Bao (Tap 4) - Cau Truc Va Chuc Nang Cua Te Bao 2;Nhieu Tac Gia;Khoa hoc - Khoa hoc tu nhien;2017
+83;Sinh Hoc Phan Tu Cua Te Bao - Tap 3: Cau Truc Va Chuc Nang Cua Te Bao (Phan 1) - Tai Ban 2016;Nhieu Tac Gia;Khoa hoc - Khoa hoc tu nhien;2011
+73;Ve...;Ton That Nguyen Thiem;Khoa hoc - y hoc;2018
+71;Cac The Gioi Song Song (Tai Ban 2018);Michio Kaku;Khoa hoc - khoa hoc vu tru;2009
+77;Lo Den: Cac Bai Dien Thuyet Tren Dai;Stephen Hawking;Khoa hoc - khoa hoc vu tru;2012
+69;Code Dao Ki Su - Lap Trinh Vien Dau Phai Chi Biet Code;Pham Huy Hoang (Developer);Khoa hoc - ky thuat;2014
+70;Minh Triet Trong An Uong Cua Phuong Dong;Ngo Duc Vuong;Khoa hoc - ky thuat;2018
+72;Te Bao Goc: Kham Pha Cung Nha Khoa Hoc;Paul Knoepfler;Khoa hoc - ky thuat;2013
+74;Khoa Hoc Kham Pha - Du Lieu Lon;Viktor Mayer - SchÖnberger & Kenneth Cukier;Khoa hoc - ky thuat;2019
+75;Nhung Nha Kham Pha - Lich Su Tri Kien Van Vat Va Con Nguoi;Daniel J. Boorstin;Khoa hoc - ky thuat;2017
+76;Vat Ly - Ung Dung Trong Doi Song Hien Dai;Nguyen Xuan Chanh;Khoa hoc - ky thuat;2016
+78;Khoa Hoc Kham Pha - Mat Ma - Tu Co Dien Den Luong Tu;Simon Singh;Khoa hoc - ky thuat;2009
+79;So Tay Dien Mat Troi - Huong Dan Thiet Ke Lap Dat He Thong Dien Mat Troi;Tran The San - Nguyen Trong Thang;Khoa hoc - ky thuat;2011
+81;Huong Dan Doc So Do Mach Dien;Tran The San - Tang Van Mui;Khoa hoc - ky thuat;2019
+82;Cai Vo Han Trong Long Ban Tay;Trinh Xuan Thuan;Khoa hoc - ky thuat;2010
+86;Dien Tu Cong Suat - Mach Bien Doi Dien Ap;Pham Quang Huy ;Khoa hoc - ky thuat;2012
+89;Sketchup Va Vray Danh Cho Nguoi Tu Hoc;Phuong Hoa - Quang Hien;Khoa hoc - ky thuat;2017
+90;Huong Dan Thiet Ke Website;WaterPC;Khoa hoc - ky thuat;2015
+91;Huong Dan Tu Lap Rap 100 Mach Dien - Dien Tu;Chau Ngoc Thach - Trinh Xuan Thu;Khoa hoc - ky thuat;2018
+94;Huong Dan Thiet Ke - Lap Dat Mang Dien Dan Dung;Tran The Sang - Nguyen Trong Thang;Khoa hoc - ky thuat;2012
+95;Noi Danh Vang Doi - Nhung Nha Phat Minh Va Cac Y Tuong La Doi;Dr. Mike Goldsmith;Khoa hoc - ky thuat;2015
+65;Danh Tuong - Cac Nha Cam Quan Vi Dai Nhat Trong Lich Su;R.G.Grant;Lich su - Khoa hoc xa hoi;2016
+66;Cac Nen Van Minh The Gioi - Lich Su Co Dai (Tron Bo 5 Tap);Fiona MacDonald ;Lich su - Khoa hoc xa hoi;2019
+67;Phat Minh Cuoi Cung;James Barrat;Lich su - Khoa hoc xa hoi;2012
+68;Margaret Thatcher - Hoi Ky Ba Dam Thep;Margaret Thatcher;Lich su - Khoa hoc xa hoi;2019
+126;Tazaki Tsukuru khong mau va nhung nam thang hanh huong;Murakami Haruki;Van hoc - tieu thuyet;2013
+100;Dan Than;Sheryl Sandberg;Kinh te - Doanh nhan;2011
+101;Ty Phu Ban Giay (Tai Ban 2018);Tony Hsieh;Kinh te - Doanh nhan;2019
+102;Ga Nghien Giay - Tu Truyen Cua Nha Sang Lap NIKE;Phil Knight;Kinh te - Doanh nhan;2014
+103;Bi Quyet Dau Tu Va Kinh Doanh Chung Khoan Cua Ty Phu Warren Buffett Va George Soros (Tai Ban);Mark Tier;Kinh te - Doanh nhan;2015
+104;Nha Dau Tu Thong Minh (Tai Ban 2016);Benjamin Graham;Kinh te - Doanh nhan;2016
+105;Warren Buffett - Qua Trinh Hinh Thanh Mot Nha Tu Ban My (Tai Ban 2017);Roger Lowenstein;Kinh te - Doanh nhan;2015
+106;America Shark Tank: Bi Quyet Kinh Doanh Cua Shark Mark Cuban;Mark Cuban;Kinh te - Doanh nhan;2017
+107;Soi Gia Pho Wall (Phan 1) - Tai Ban;Jordan Belford;Kinh te - Doanh nhan;2019
+108;Mot Phut Voi Warren Buffett;Kuwabara Teruya;Kinh te - Doanh nhan;2010
+109;America Shark Tank: Cach Bien Y Tuong Trieu Do Thanh Hien Thuc Cua Shark Lori Greiner;Lori Greiner;Kinh te - Doanh nhan;2019
+110;Nghi Lon De Thanh Cong (Tai Ban 2017);Donald J.Trump;Kinh te - Doanh nhan;2019
+111;Nhung Ke Xuat Chung (Tai Ban 2017);Malcolm Gladwell;Kinh te - Doanh nhan;2017
+112;Cham Tay Hoa Vang;Donald J.Trump;Kinh te - Doanh nhan;2018
+113;The Firm;Duff McDonald;Kinh te - Doanh nhan;2016
+114;Danh Thuc Tiem Nang Tai Chinh;Robert T. Kiyosaki;Kinh te - Doanh nhan;2013
+115;Mat Ma Thanh Cong cua nguoi Do Thai;Ophir Akiva;Kinh te - Doanh nhan;2017
+116;Duong Ra Bien Lon;Richard Branson;Kinh te - Doanh nhan;2009
+117;Mot Phut Voi Steve Jobs;Kuwabara Teruya;Kinh te - Doanh nhan;2012
+118;Khong Co Giac Mo Nao La Qua Lon;Cristiane Corea;Kinh te - Doanh nhan;2013
+119;Nhung Ong Trum Tai Chinh (Tai Ban 2018);Liaquat Ahamed;Kinh te - Doanh nhan;2018
+120;Triet Ly Kinh Doanh Cua Inamori Kazuo;Nikkei Top Leader;Kinh te - Doanh nhan;2019
+121;Hay Cu Khat Khao - Hay Mai Dai Kho;Rashmi Bansal;Kinh te - Doanh nhan;2017
+122;Doc Het Trai Tim - Cach Starbucks Xay Dung Cong Ty Bang Tung Tach Ca Phe (Tai Ban 2013);Howard Schultz,  Dori Jones Yang;Kinh te - Doanh nhan;2014
+124;Steve Jobs - Nhung Bi Quyet Doi Moi Va Sang Tao (Tai Ban 2017);Carmine Gallo;Kinh te - Doanh nhan;2010
+125;Mot Phut Voi Konosuke Matsushitaaaa;Oda Zenko;Kinh te - Doanh nhan;2014
+99;P.Kotler Tiep thi 4.0 - Dich Chuyen Tu Truyen Thong Sang Cong Nghe So;Nguyen Khoa Hong Thanh ;Kinh te - Kinh doanh;2011
+96;My Thuat Ve Tinh Vat Don The (Tap 2);Gia Bao;Hoi hoa - My thuat ;2010
+97;My Thuat Ve Tuong Chan Dung Bang Thach Cao;Gia Bao;Hoi hoa - My thuat ;2012
+98;Phan Tich Hoi Hoa Co Ban - Phan Tich Bo Cuc Mieu Ta: Phuong Phap Ve Ngu Quan;Gia Bao;Hoi hoa - My thuat ;2016
+1231313;sd asdasd asd a;sdsdsd;sad sad ad;1996

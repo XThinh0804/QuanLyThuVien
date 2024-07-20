@@ -1,0 +1,51 @@
+Bài tập cuối khóa: 
+
+Viết chương trình quản lý thư viện cho phép:
+ + thêm một cuốn sách mới vào thư viện
+ + xóa một cuốn sách khỏi hệ thống
+ + sửa thông tin một cuốn sách theo, tìm theo mã sách
+ + hiển thị danh sách các cuốn sách đang có trong thư viện
+	- sắp xếp theo mã
+	- sắp xếp theo tên tựa A-Z
+	- sắp xếp theo tên tác giả A-Z
+	- sắp xếp theo thể loại A-Z
+	- sắp xếp theo năm xuất bản mới - cũ
+ + tìm kiếm sách theo tựa sách
+ + tìm kiếm sách theo tên tác giả
+ + tìm kiếm sách theo mã sách
+ 
+ Thông tin cuốn sách gồm có các trường:
+  + mã sách
+  + tựa sách
+  + tên tác giả
+  + thể loại
+  + năm xb
+  
+Dữ liệu về sách đã được cho sẵn trong file book_data.txt hoặc book_data_en.txt (phiên bản không dấu)
+Chương trình sẽ đọc dữ liệu từ file này để hiển thị danh sách.
+Các chỉnh sửa: thêm, sửa, xóa cần được cập nhật trở lại vào file này trước khi thoát chương trình.
+Chương trình sử dụng menu chọn chức năng trên màn hình console dạng
+
+-----MENU-------
+
+1. Hiển thị danh sách
+2. Tìm kiếm
+3. Thêm sách
+4. Sửa thông tin sách
+5. Xóa sách
+
+0. Thoát
+
+mời chọn: 
+
+trong các menu có thể có menu con:
+
+---- SEARCH ----
+
+1. Tìm theo mã sách
+2. Tìm theo tựa sách 
+3. Tìm theo tên tác giả
+
+0. quay lại
+
+mời chọn:
